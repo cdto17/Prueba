@@ -26,3 +26,6 @@ Command to shut down the container:
 <p>
 To use the project you must execute the commands described in the previous point. When, you run it in the terminal you will be able to find URLs that you can open locally and you will be able to see the different services it offered such as listing the songs, audio and video songs.
 </p>
+
+![Docker1](https://github.com/cdto17/Prueba/assets/91480354/8828c773-c07d-4148-b954-10fed1897a4d)
+
